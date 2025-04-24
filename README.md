@@ -1,4 +1,4 @@
-#js-Closure
+# js-Closure
 
 ## 📚 Table of Contents
 
