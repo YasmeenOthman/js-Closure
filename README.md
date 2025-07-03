@@ -22,7 +22,7 @@
 
 ## Where to Start
 
-👉 Check out the [`readme/`](readme/) folder. It contains the explanation.
+👉 Check out the [`readme/`](README/) folder. It contains the explanation.
 
 ## ✨ Credits & Sharing
 
