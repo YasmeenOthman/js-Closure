@@ -22,7 +22,8 @@
 
 ## Where to Start
 
-👉 Check out the [`readme/`](README/) folder. It contains the explanation.
+-  Check out the [`README/`](README/) folder for the explanation.
+- For the examples [`counter-example/`](counterexample/) and [`fontSize-example/`](fontSizeexample/)
 
 ## ✨ Credits & Sharing
 
