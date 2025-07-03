@@ -23,7 +23,7 @@
 ## Where to Start
 
 -  Check out the [`README/`](README/) folder for the explanation.
-- For the examples [`counter-example/`](counterexample/) and [`fontSize-example/`](fontSizeexample/)
+- For the examples check the code in the **counter example** and **fontSize example** folders 
 
 ## ✨ Credits & Sharing
 
